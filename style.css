@@ -14,6 +14,9 @@
 
 
 }
+img{
+	max-width: 100%;
+}
 
 .banner-content {
 	margin-top: 100px;
@@ -78,8 +81,7 @@
 	background: white;
 	display: inline-block;
 	border-radius: 5px;
-	position: relative;
-	left: 103px;
+	text-align: center;
 	line-height: 38px;
 }
 .app-items a {
@@ -137,7 +139,7 @@
 
 .emon {
 	background: white;
-	width: 800px;
+	width: 100%;
 	height: 500px;
 	padding: 70px;
 }
